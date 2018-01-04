@@ -1,0 +1,38 @@
+Created on Nov 18, 2017
+
+Followed these instructions to get the hg19.ucsc.knownGenes.gtf:
+https://groups.google.com/a/soe.ucsc.edu/forum/#!msg/genome/kyk7AAm4R-M/9LkE-CRjzioJ
+
+
+======= refseq genes =======
+Same table, with refseq fields, was used for the refseq genes as well.
+
+The table schema for the refseq table is as follows (copied):
+
+Database: hg19    Primary Table: refGene    Row Count: 69,703   Data last updated: 2017-11-13
+Format description: A gene prediction with some additional info.
+
+field	example	SQL type	info	description
+bin	585	smallint(5) unsigned	range	Indexing field to speed chromosome range queries.
+name	NR_148357	varchar(255)	values	Name of gene (usually transcript_id from GTF)
+chrom	chr1	varchar(255)	values	Reference sequence chromosome or scaffold
+strand	+	char(1)	values	+ or - for strand
+txStart	11868	int(10) unsigned	range	Transcription start position (or end position for minus strand item)
+txEnd	14362	int(10) unsigned	range	Transcription end position (or start position for minus strand item)
+cdsStart	14362	int(10) unsigned	range	Coding region start (or end position for minus strand item)
+cdsEnd	14362	int(10) unsigned	range	Coding region end (or start position for minus strand item)
+exonCount	3	int(10) unsigned	range	Number of exons
+exonStarts	11868,12612,13220,	longblob	 	Exon start positions (or end positions for minus strand item)
+exonEnds	12227,12721,14362,	longblob	 	Exon end positions (or start positions for minus strand item)
+score	0	int(11)	range	score
+name2	LOC102725121	varchar(255)	values	Alternate name (e.g. gene_id from GTF)
+cdsStartStat	unk	enum('none', 'unk', 'incmpl', 'cmpl')	values	enum('none','unk','incmpl','cmpl')
+cdsEndStat	unk	enum('none', 'unk', 'incmpl', 'cmpl')	values	enum('none','unk','incmpl','cmpl')
+exonFrames	-1,-1,-1,	longblob	 	Exon frame {0,1,2}, or -1 if no frame for exon
+
+
+
+
+
+
+
