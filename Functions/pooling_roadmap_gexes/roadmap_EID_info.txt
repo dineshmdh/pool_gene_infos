@@ -1,0 +1,128 @@
+Epigenome ID (EID)	Standardized Epigenome name	Epigenome Mnemonic	GROUP	EID_info
+E017	IMR90 fetal lung fibroblasts Cell Line	LNG.IMR90	IMR90	E017_LNG.IMR90_IMR90
+E002	ES-WA7 Cells	ESC.WA7	ESC	E002_ESC.WA7_ESC
+E008	H9 Cells	ESC.H9	ESC	E008_ESC.H9_ESC
+E001	ES-I3 Cells	ESC.I3	ESC	E001_ESC.I3_ESC
+E015	HUES6 Cells	ESC.HUES6	ESC	E015_ESC.HUES6_ESC
+E014	HUES48 Cells	ESC.HUES48	ESC	E014_ESC.HUES48_ESC
+E016	HUES64 Cells	ESC.HUES64	ESC	E016_ESC.HUES64_ESC
+E003	H1 Cells	ESC.H1	ESC	E003_ESC.H1_ESC
+E024	ES-UCSF4  Cells	ESC.4STAR	ESC	E024_ESC.4STAR_ESC
+E020	iPS-20b Cells	IPSC.20B	iPSC	E020_IPSC.20B_iPSC
+E019	iPS-18 Cells	IPSC.18	iPSC	E019_IPSC.18_iPSC
+E018	iPS-15b Cells	IPSC.15b	iPSC	E018_IPSC.15b_iPSC
+E021	iPS DF 6.9 Cells	IPSC.DF.6.9	iPSC	E021_IPSC.DF.6.9_iPSC
+E022	iPS DF 19.11 Cells	IPSC.DF.19.11	iPSC	E022_IPSC.DF.19.11_iPSC
+E007	H1 Derived Neuronal Progenitor Cultured Cells	ESDR.H1.NEUR.PROG	ES-deriv	E007_ESDR.H1.NEUR.PROG_ES-deriv
+E009	H9 Derived Neuronal Progenitor Cultured Cells	ESDR.H9.NEUR.PROG	ES-deriv	E009_ESDR.H9.NEUR.PROG_ES-deriv
+E010	H9 Derived Neuron Cultured Cells	ESDR.H9.NEUR	ES-deriv	E010_ESDR.H9.NEUR_ES-deriv
+E013	hESC Derived CD56+ Mesoderm Cultured Cells	ESDR.CD56.MESO	ES-deriv	E013_ESDR.CD56.MESO_ES-deriv
+E012	hESC Derived CD56+ Ectoderm Cultured Cells	ESDR.CD56.ECTO	ES-deriv	E012_ESDR.CD56.ECTO_ES-deriv
+E011	hESC Derived CD184+ Endoderm Cultured Cells	ESDR.CD184.ENDO	ES-deriv	E011_ESDR.CD184.ENDO_ES-deriv
+E004	H1 BMP4 Derived Mesendoderm Cultured Cells	ESDR.H1.BMP4.MESO	ES-deriv	E004_ESDR.H1.BMP4.MESO_ES-deriv
+E005	H1 BMP4 Derived Trophoblast Cultured Cells	ESDR.H1.BMP4.TROP	ES-deriv	E005_ESDR.H1.BMP4.TROP_ES-deriv
+E006	H1 Derived Mesenchymal Stem Cells	ESDR.H1.MSC	ES-deriv	E006_ESDR.H1.MSC_ES-deriv
+E062	Primary mononuclear cells from peripheral blood	BLD.PER.MONUC.PC	Blood & T-cell	E062_BLD.PER.MONUC.PC_Blood & T-cell
+E034	Primary T cells from peripheral blood	BLD.CD3.PPC	Blood & T-cell	E034_BLD.CD3.PPC_Blood & T-cell
+E045	Primary T cells effector/memory enriched from peripheral blood	BLD.CD4.CD25I.CD127.TMEMPC	Blood & T-cell	E045_BLD.CD4.CD25I.CD127.TMEMPC_Blood & T-cell
+E033	Primary T cells from cord blood	BLD.CD3.CPC	Blood & T-cell	E033_BLD.CD3.CPC_Blood & T-cell
+E044	Primary T regulatory cells from peripheral blood	BLD.CD4.CD25.CD127M.TREGPC	Blood & T-cell	E044_BLD.CD4.CD25.CD127M.TREGPC_Blood & T-cell
+E043	Primary T helper cells from peripheral blood	BLD.CD4.CD25M.TPC	Blood & T-cell	E043_BLD.CD4.CD25M.TPC_Blood & T-cell
+E039	Primary T helper naive cells from peripheral blood	BLD.CD4.CD25M.CD45RA.NPC	Blood & T-cell	E039_BLD.CD4.CD25M.CD45RA.NPC_Blood & T-cell
+E041	Primary T helper cells PMA-I stimulated	BLD.CD4.CD25M.IL17M.PL.TPC	Blood & T-cell	E041_BLD.CD4.CD25M.IL17M.PL.TPC_Blood & T-cell
+E042	Primary T helper 17 cells PMA-I stimulated	BLD.CD4.CD25M.IL17P.PL.TPC	Blood & T-cell	E042_BLD.CD4.CD25M.IL17P.PL.TPC_Blood & T-cell
+E040	Primary T helper memory cells from peripheral blood 1	BLD.CD4.CD25M.CD45RO.MPC	Blood & T-cell	E040_BLD.CD4.CD25M.CD45RO.MPC_Blood & T-cell
+E037	Primary T helper memory cells from peripheral blood 2	BLD.CD4.MPC	Blood & T-cell	E037_BLD.CD4.MPC_Blood & T-cell
+E048	Primary T CD8+ memory cells from peripheral blood	BLD.CD8.MPC	Blood & T-cell	E048_BLD.CD8.MPC_Blood & T-cell
+E038	Primary T helper naive cells from peripheral blood	BLD.CD4.NPC	Blood & T-cell	E038_BLD.CD4.NPC_Blood & T-cell
+E047	Primary T CD8+ naive cells from peripheral blood	BLD.CD8.NPC	Blood & T-cell	E047_BLD.CD8.NPC_Blood & T-cell
+E029	Primary monocytes from peripheral blood	BLD.CD14.PC	HSC & B-cell	E029_BLD.CD14.PC_HSC & B-cell
+E031	Primary B cells from cord blood	BLD.CD19.CPC	HSC & B-cell	E031_BLD.CD19.CPC_HSC & B-cell
+E035	Primary hematopoietic stem cells	BLD.CD34.PC	HSC & B-cell	E035_BLD.CD34.PC_HSC & B-cell
+E051	Primary hematopoietic stem cells G-CSF-mobilized Male	BLD.MOB.CD34.PC.M	HSC & B-cell	E051_BLD.MOB.CD34.PC.M_HSC & B-cell
+E050	Primary hematopoietic stem cells G-CSF-mobilized Female	BLD.MOB.CD34.PC.F	HSC & B-cell	E050_BLD.MOB.CD34.PC.F_HSC & B-cell
+E036	Primary hematopoietic stem cells short term culture	BLD.CD34.CC	HSC & B-cell	E036_BLD.CD34.CC_HSC & B-cell
+E032	Primary B cells from peripheral blood	BLD.CD19.PPC	HSC & B-cell	E032_BLD.CD19.PPC_HSC & B-cell
+E046	Primary Natural Killer cells from peripheral blood	BLD.CD56.PC	HSC & B-cell	E046_BLD.CD56.PC_HSC & B-cell
+E030	Primary neutrophils from peripheral blood	BLD.CD15.PC	HSC & B-cell	E030_BLD.CD15.PC_HSC & B-cell
+E026	Bone Marrow Derived Cultured Mesenchymal Stem Cells	STRM.MRW.MSC	Mesench	E026_STRM.MRW.MSC_Mesench
+E049	Mesenchymal Stem Cell Derived Chondrocyte Cultured Cells	STRM.CHON.MRW.DR.MSC	Mesench	E049_STRM.CHON.MRW.DR.MSC_Mesench
+E025	Adipose Derived Mesenchymal Stem Cell Cultured Cells	FAT.ADIP.DR.MSC	Mesench	E025_FAT.ADIP.DR.MSC_Mesench
+E023	Mesenchymal Stem Cell Derived Adipocyte Cultured Cells	FAT.MSC.DR.ADIP	Mesench	E023_FAT.MSC.DR.ADIP_Mesench
+E052	Muscle Satellite Cultured Cells	MUS.SAT	Myosat	E052_MUS.SAT_Myosat
+E055	Foreskin Fibroblast Primary Cells skin01	SKIN.PEN.FRSK.FIB.01	Epithelial	E055_SKIN.PEN.FRSK.FIB.01_Epithelial
+E056	Foreskin Fibroblast Primary Cells skin02	SKIN.PEN.FRSK.FIB.02	Epithelial	E056_SKIN.PEN.FRSK.FIB.02_Epithelial
+E059	Foreskin Melanocyte Primary Cells skin01	SKIN.PEN.FRSK.MEL.01	Epithelial	E059_SKIN.PEN.FRSK.MEL.01_Epithelial
+E061	Foreskin Melanocyte Primary Cells skin03	SKIN.PEN.FRSK.MEL.03	Epithelial	E061_SKIN.PEN.FRSK.MEL.03_Epithelial
+E057	Foreskin Keratinocyte Primary Cells skin02	SKIN.PEN.FRSK.KER.02	Epithelial	E057_SKIN.PEN.FRSK.KER.02_Epithelial
+E058	Foreskin Keratinocyte Primary Cells skin03	SKIN.PEN.FRSK.KER.03	Epithelial	E058_SKIN.PEN.FRSK.KER.03_Epithelial
+E028	Breast variant Human Mammary Epithelial Cells (vHMEC)	BRST.HMEC.35	Epithelial	E028_BRST.HMEC.35_Epithelial
+E027	Breast Myoepithelial Primary Cells	BRST.MYO	Epithelial	E027_BRST.MYO_Epithelial
+E054	Ganglion Eminence derived primary cultured neurospheres	BRN.GANGEM.DR.NRSPHR	Neurosph	E054_BRN.GANGEM.DR.NRSPHR_Neurosph
+E053	Cortex derived primary cultured neurospheres	BRN.CRTX.DR.NRSPHR	Neurosph	E053_BRN.CRTX.DR.NRSPHR_Neurosph
+E112	Thymus	THYM	Thymus	E112_THYM_Thymus
+E093	Fetal Thymus	THYM.FET	Thymus	E093_THYM.FET_Thymus
+E071	Brain Hippocampus Middle	BRN.HIPP.MID	Brain	E071_BRN.HIPP.MID_Brain
+E074	Brain Substantia Nigra	BRN.SUB.NIG	Brain	E074_BRN.SUB.NIG_Brain
+E068	Brain Anterior Caudate	BRN.ANT.CAUD	Brain	E068_BRN.ANT.CAUD_Brain
+E069	Brain Cingulate Gyrus	BRN.CING.GYR	Brain	E069_BRN.CING.GYR_Brain
+E072	Brain Inferior Temporal Lobe	BRN.INF.TMP	Brain	E072_BRN.INF.TMP_Brain
+E067	Brain Angular Gyrus	BRN.ANG.GYR	Brain	E067_BRN.ANG.GYR_Brain
+E073	Brain_Dorsolateral_Prefrontal_Cortex	BRN.DL.PRFRNTL.CRTX	Brain	E073_BRN.DL.PRFRNTL.CRTX_Brain
+E070	Brain Germinal Matrix	BRN.GRM.MTRX	Brain	E070_BRN.GRM.MTRX_Brain
+E082	Fetal Brain Female	BRN.FET.F	Brain	E082_BRN.FET.F_Brain
+E081	Fetal Brain Male	BRN.FET.M	Brain	E081_BRN.FET.M_Brain
+E063	Adipose Nuclei	FAT.ADIP.NUC	Adipose	E063_FAT.ADIP.NUC_Adipose
+E100	Psoas Muscle	MUS.PSOAS	Muscle	E100_MUS.PSOAS_Muscle
+E108	Skeletal Muscle Female	MUS.SKLT.F	Muscle	E108_MUS.SKLT.F_Muscle
+E107	Skeletal Muscle Male	MUS.SKLT.M	Muscle	E107_MUS.SKLT.M_Muscle
+E089	Fetal Muscle Trunk	MUS.TRNK.FET	Muscle	E089_MUS.TRNK.FET_Muscle
+E090	Fetal Muscle Leg	MUS.LEG.FET	Muscle	E090_MUS.LEG.FET_Muscle
+E083	Fetal Heart	HRT.FET	Heart	E083_HRT.FET_Heart
+E104	Right Atrium	HRT.ATR.R	Heart	E104_HRT.ATR.R_Heart
+E095	Left Ventricle	HRT.VENT.L	Heart	E095_HRT.VENT.L_Heart
+E105	Right Ventricle	HRT.VNT.R	Heart	E105_HRT.VNT.R_Heart
+E065	Aorta	VAS.AOR	Heart	E065_VAS.AOR_Heart
+E078	Duodenum Smooth Muscle	GI.DUO.SM.MUS	Sm. Muscle	E078_GI.DUO.SM.MUS_Sm. Muscle
+E076	Colon Smooth Muscle	GI.CLN.SM.MUS	Sm. Muscle	E076_GI.CLN.SM.MUS_Sm. Muscle
+E103	Rectal Smooth Muscle	GI.RECT.SM.MUS	Sm. Muscle	E103_GI.RECT.SM.MUS_Sm. Muscle
+E111	Stomach Smooth Muscle	GI.STMC.MUS	Sm. Muscle	E111_GI.STMC.MUS_Sm. Muscle
+E092	Fetal Stomach	GI.STMC.FET	Digestive	E092_GI.STMC.FET_Digestive
+E085	Fetal Intestine Small	GI.S.INT.FET	Digestive	E085_GI.S.INT.FET_Digestive
+E084	Fetal Intestine Large	GI.L.INT.FET	Digestive	E084_GI.L.INT.FET_Digestive
+E109	Small Intestine	GI.S.INT	Digestive	E109_GI.S.INT_Digestive
+E106	Sigmoid Colon	GI.CLN.SIG	Digestive	E106_GI.CLN.SIG_Digestive
+E075	Colonic Mucosa	GI.CLN.MUC	Digestive	E075_GI.CLN.MUC_Digestive
+E101	Rectal Mucosa Donor 29	GI.RECT.MUC.29	Digestive	E101_GI.RECT.MUC.29_Digestive
+E102	Rectal Mucosa Donor 31	GI.RECT.MUC.31	Digestive	E102_GI.RECT.MUC.31_Digestive
+E110	Stomach Mucosa	GI.STMC.MUC	Digestive	E110_GI.STMC.MUC_Digestive
+E077	Duodenum Mucosa	GI.DUO.MUC	Digestive	E077_GI.DUO.MUC_Digestive
+E079	Esophagus	GI.ESO	Digestive	E079_GI.ESO_Digestive
+E094	Gastric	GI.STMC.GAST	Digestive	E094_GI.STMC.GAST_Digestive
+E099	Placenta Amnion	PLCNT.AMN	Other	E099_PLCNT.AMN_Other
+E086	Fetal Kidney	KID.FET	Other	E086_KID.FET_Other
+E088	Fetal Lung	LNG.FET	Other	E088_LNG.FET_Other
+E097	Ovary	OVRY	Other	E097_OVRY_Other
+E087	Pancreatic Islets	PANC.ISLT	Other	E087_PANC.ISLT_Other
+E080	Fetal Adrenal Gland	ADRL.GLND.FET	Other	E080_ADRL.GLND.FET_Other
+E091	Placenta	PLCNT.FET	Other	E091_PLCNT.FET_Other
+E066	Liver	LIV.ADLT	Other	E066_LIV.ADLT_Other
+E098	Pancreas	PANC	Other	E098_PANC_Other
+E096	Lung	LNG	Other	E096_LNG_Other
+E113	Spleen	SPLN	Other	E113_SPLN_Other
+E114	A549 EtOH 0.02pct Lung Carcinoma Cell Line	LNG.A549.ETOH002.CNCR	ENCODE2012	E114_LNG.A549.ETOH002.CNCR_ENCODE2012
+E115	Dnd41 TCell Leukemia Cell Line	BLD.DND41.CNCR	ENCODE2012	E115_BLD.DND41.CNCR_ENCODE2012
+E116	GM12878 Lymphoblastoid Cells	BLD.GM12878	ENCODE2012	E116_BLD.GM12878_ENCODE2012
+E117	HeLa-S3 Cervical Carcinoma Cell Line	CRVX.HELAS3.CNCR	ENCODE2012	E117_CRVX.HELAS3.CNCR_ENCODE2012
+E118	HepG2 Hepatocellular Carcinoma Cell Line	LIV.HEPG2.CNCR	ENCODE2012	E118_LIV.HEPG2.CNCR_ENCODE2012
+E119	HMEC Mammary Epithelial Primary Cells	BRST.HMEC	ENCODE2012	E119_BRST.HMEC_ENCODE2012
+E120	HSMM Skeletal Muscle Myoblasts Cells	MUS.HSMM	ENCODE2012	E120_MUS.HSMM_ENCODE2012
+E121	HSMM cell derived Skeletal Muscle Myotubes Cells	MUS.HSMMT	ENCODE2012	E121_MUS.HSMMT_ENCODE2012
+E122	HUVEC Umbilical Vein Endothelial Primary Cells	VAS.HUVEC	ENCODE2012	E122_VAS.HUVEC_ENCODE2012
+E123	K562 Leukemia Cells	BLD.K562.CNCR	ENCODE2012	E123_BLD.K562.CNCR_ENCODE2012
+E124	Monocytes-CD14+ RO01746 Primary Cells	BLD.CD14.MONO	ENCODE2012	E124_BLD.CD14.MONO_ENCODE2012
+E125	NH-A Astrocytes Primary Cells	BRN.NHA	ENCODE2012	E125_BRN.NHA_ENCODE2012
+E126	NHDF-Ad Adult Dermal Fibroblast Primary Cells	SKIN.NHDFAD	ENCODE2012	E126_SKIN.NHDFAD_ENCODE2012
+E127	NHEK-Epidermal Keratinocyte Primary Cells	SKIN.NHEK	ENCODE2012	E127_SKIN.NHEK_ENCODE2012
+E128	NHLF Lung Fibroblast Primary Cells	LNG.NHLF	ENCODE2012	E128_LNG.NHLF_ENCODE2012
+E129	Osteoblast Primary Cells	BONE.OSTEO	ENCODE2012	E129_BONE.OSTEO_ENCODE2012
