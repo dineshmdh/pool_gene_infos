@@ -1,0 +1,3 @@
+/data/gordanlab/dinesh/predicting_gex/Input_files/encode/DNase_peaks/hg19-cREs-V10.bed
+/data/gordanlab/dinesh/predicting_gex/Input_files/jeme/bed_jeme_elasticnet_merged_bySamplesOnly.txt
+/data/gordanlab/dinesh/predicting_gex/Input_files/jeme/bed_jeme_elasticnet_merged_bySamplesAndBedTools.txt
