@@ -6,7 +6,7 @@ This is a resource repository. The goal was to collect these information for all
 3. TAD information
 4. Expression across various cell types in Epigenomics Roadmap database.
 
-The final output file is [this](/merge_tad_and_gexes/roadmap.rnase_imputed.LogRPKM.signal.mergedWTADlocs.txt) (filesize: 24MB). Check the `Functions` directory and the notes below to see how the metadata for the genes were processed and pooled. (**Note: Currently, only Roadmap RNA-seq data is used. I am working to generate a similar metadata file with ENCODE RNA-seq data as well.**)
+The final output file is [this](/merge_tad_and_gexes/roadmap.rnase_imputed.LogRPKM.signal.mergedWTADlocs.txt) (filesize: 24MB). Check the  the notes below and the functions in the directories to see how the metadata for the genes were processed and pooled. (**Note: Currently, only Roadmap RNA-seq data is used. I am working to generate a similar metadata file with ENCODE RNA-seq data as well.**)
 
 
 ### TAD information - TAD domain boundaries and sizes
